@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerTag
+  - RightBoundary
+  - LeftBoundary
+  - PlayerTag2
+  - Floor
+  - Ball
+  - Wall
+  - scoreValue
+  - Options
+  - Jewels
+  - OptionsCounter
+  - EnergyLevel
+  - obstacle
+  - falling_comet
+  - moving_comet
+  - LowerRight
+  - UpperLeft
+  - startButton
+  - test2_square
+  - test2_button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundLayer
+    uniqueID: 174812061
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 3525594723
+    locked: 0
